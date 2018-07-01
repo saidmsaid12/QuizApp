@@ -8,14 +8,14 @@ The app will also leave a remark based on your score.The app combines both radio
 
 The Correct Answers for each question are:
 1. **Question 1.** Mt. Kenya\n
-2. **-Question 2**: Uganda.
-3. **-Question 3**: L.Victoria
-4. **-Question 4**: R.Tana
-5. **-Question 5**: No
-6. **-Question 6**: 47
-7. **-Question 7**: Tanzania
-8. **-Question 8**: Africa
-9. **-Question 9**: Nairobi
-10. **-Question 10 [Bonus Optional Question]**: Kilifi and Nakuru. 
+2. **Question 2**: Uganda.
+3. **Question 3**: L.Victoria
+4. **Question 4**: R.Tana
+5. **Question 5**: No
+6. **Question 6**: 47
+7. **Question 7**: Tanzania
+8. **Question 8**: Africa
+9. **Question 9**: Nairobi
+10. **Question 10 [Bonus Optional Question]**: Kilifi and Nakuru. 
 
 
