@@ -6,8 +6,9 @@ The Questions are on Kenya's Geography. All questions have only One answer excep
 Each correct answer earns you 1 Point. The maximum point one can get is 10. 
 The app will also leave a remark based on your score.The app combines both radio buttons, checkboxes and EditText views to submit answers
 
+link to the App on Google Drive: [Link to App](https://drive.google.com/open?id=1RJh70jrsRFG5cTy0EeCA4vGyM4EK9YBA)
 The Correct Answers for each question are:
-1. **Question 1.** Mt. Kenya\n
+1. **Question 1.** Mt. Kenya
 2. **Question 2**: Uganda.
 3. **Question 3**: L.Victoria
 4. **Question 4**: R.Tana
