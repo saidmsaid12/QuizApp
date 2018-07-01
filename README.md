@@ -7,15 +7,15 @@ Each correct answer earns you 1 Point. The maximum point one can get is 10.
 The app will also leave a remark based on your score.The app combines both radio buttons, checkboxes and EditText views to submit answers
 
 The Correct Answers for each question are:
-**-Question 1.** Mt. Kenya\n
-**-Question 2**: Uganda.
-**-Question 3**: L.Victoria
-**-Question 4**: R.Tana
-**-Question 5**: No
-**-Question 6**: 47
-**-Question 7**: Tanzania
-**-Question 8**: Africa
-**-Question 9**: Nairobi
-**-Question 10 [Bonus Optional Question]**: Kilifi and Nakuru. 
+1. **Question 1.** Mt. Kenya\n
+2. **-Question 2**: Uganda.
+3. **-Question 3**: L.Victoria
+4. **-Question 4**: R.Tana
+5. **-Question 5**: No
+6. **-Question 6**: 47
+7. **-Question 7**: Tanzania
+8. **-Question 8**: Africa
+9. **-Question 9**: Nairobi
+10. **-Question 10 [Bonus Optional Question]**: Kilifi and Nakuru. 
 
 
