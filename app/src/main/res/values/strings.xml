@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="welcome">Welcome</string>
+    <string name="instructions">Select the appropriate answer from below Questions</string>
+    <string name="question_1">1. Which of the following is the tallest mountain in Kenya</string>
+    <string name="choice_1A">Mt. Kilimanjaro</string>
+    <string name="choice_1B">Mt. ELgon</string>
+    <string name="choice_1C">Mt. Longonot</string>
+    <string name="choice_1D">Mt. Kenya</string>
+    <string name="question_2">2. Which Country borders Kenya to the West?</string>
+    <string name="choice_2A">Sudan</string>
+    <string name="choice_2B">Tanzania</string>
+    <string name="choice_2C">Uganda</string>
+    <string name="choice_2D">Somalia</string>
+    <string name="question_3">3. Select among the following the largest lake in Kenya</string>
+    <string name="choice_3A">L. Victoria</string>
+    <string name="choice_3B">L. Magadi</string>
+    <string name="choice_3C">L. Turkana</string>
+    <string name="choice_3D">L. Nakuru</string>
+    <string name="question_4">4. Which is the longest River in Kenya?</string>
+    <string name="choice_4A">R. Tana</string>
+    <string name="choice_4B">R. Nile </string>
+    <string name="choice_4C">R. Sabaki</string>
+    <string name="choice_4D">R. Nzoia</string>
+    <string name="question_5">5. Is Kenya Landlocked?</string>
+    <string name="choice_5A">Yes</string>
+    <string name="choice_5B">No</string>
+    <string name="number">Number</string>
+    <string name="question_6">6. How many counties are there in Kenya?</string>
+    <string name="question_7">7. Which Country borders Kenya to the South?</string>
+    <string name="choice_7A">Sudan</string>
+    <string name="choice_7B">Tanzania</string>
+    <string name="choice_7C">Uganda</string>
+    <string name="choice_7D">Somalia</string>
+    <string name="question_8">8. Which CONTINENT is Kenya located?</string>
+    <string name="choice_8A">East Africa</string>
+    <string name="choice_8B">Africa</string>
+    <string name="question_9">9. Which is the capital city of Kenya?</string>
+    <string name="choice_9A">Kisumu</string>
+    <string name="choice_9B">Nairobi</string>
+    <string name="choice_9C">Mombasa</string>
+    <string name="choice_9D">Eldoret</string>
+    <string name="question_10">[BONUS OPTIONAL QUESTION]10. Which one among the following is a county in Kenya?(Select all applicable)</string>
+    <string name="choice_10A">Kilifi</string>
+    <string name="choice_10B">Malindi</string>
+    <string name="choice_10C">Nakuru</string>
+    <string name="choice_10D">Watamu</string>
+    <string name="submitButton">Submit</string>
+    <string name="error">Please fill all compulsory Questions</string>
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
